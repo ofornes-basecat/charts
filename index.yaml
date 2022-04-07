@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  demo-spring:
+  - apiVersion: v2
+    appVersion: 1.1.0
+    created: "2022-04-07T08:10:51.474434579+02:00"
+    description: Helm chart amb app spring
+    digest: ebdc3c3ccafb49150688ee222a97c5759b8d57dcff6b9a341630bb7a4c01b600
+    icon: file://./spring-icon.png
+    name: demo-spring
+    type: application
+    urls:
+    - https://ofornes-basecat.github.com/charts/demo-spring-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-04-07T08:10:51.473509544+02:00"
