@@ -1,6 +1,6 @@
 apiVersion: v2
 name: demo-spring
-description: A Helm chart for Kubernetes
+description: Helm chart amb app spring
 
 # A chart can be either an 'application' or a 'library' chart.
 #
