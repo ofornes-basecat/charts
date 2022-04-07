@@ -10,6 +10,6 @@ entries:
     name: demo-spring
     type: application
     urls:
-    - https://ofornes-basecat.github.com/charts/demo-spring-0.1.0.tgz
+    - https://github.com/ofornes-basecat/charts/raw/gh-pages/demo-spring-0.1.0.tgz
     version: 0.1.0
 generated: "2022-04-07T08:10:51.473509544+02:00"
